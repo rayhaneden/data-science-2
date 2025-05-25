@@ -1,10 +1,10 @@
 streamlit==1.24.1
-numpy==1.25.1  # atau 2.0.2 jika ingin versi terbaru, tapi Streamlit umumnya lebih kompatibel dengan numpy<2
-pandas==2.0.3  # atau 2.2.2 jika ingin versi terbaru
-scipy==1.11.1  # atau 1.15.3 jika ingin versi terbaru
-matplotlib==3.7.2  # atau 3.10.0 jika ingin versi terbaru
-seaborn==0.12.2  # atau 0.13.2 jika ingin versi terbaru
-scikit-learn==1.3.2  # atau 1.6.1 jika ingin versi terbaru
+numpy==1.25.1 
+pandas==2.0.3  
+scipy==1.11.1  
+matplotlib==3.7.2  
+seaborn==0.12.2  
+scikit-learn==1.3.2  
 sqlalchemy==2.0.25
 dython==0.7.9
-joblib==1.3.2  # atau 1.5.0 jika ingin versi terbaru
+joblib==1.3.2  
